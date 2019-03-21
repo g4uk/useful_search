@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require "useful_search"
+
+UsefulSearch::CLI.start(ARGV)
